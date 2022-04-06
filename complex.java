@@ -22,3 +22,4 @@ int i;
         second.display();
         add(first.r,first.i,second.r,second.i);
     }
+}
